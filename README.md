@@ -1,3 +1,3 @@
 # IDEA
 
-# GSA god club
+## GSA god club
